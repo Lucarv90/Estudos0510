@@ -1,0 +1,5 @@
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb

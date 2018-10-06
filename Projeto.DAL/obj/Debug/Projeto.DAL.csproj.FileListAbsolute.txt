@@ -1,0 +1,12 @@
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\Projeto.DAL.dll.config
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\Projeto.DAL.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\Projeto.DAL.pdb
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\Projeto.Entidades.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\obj\Debug\Projeto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\obj\Debug\Projeto.DAL.dll
+C:\Users\Heloisa\Documents\Visual Studio 2015\Projects\Estudo0510\Projeto.DAL\obj\Debug\Projeto.DAL.pdb
